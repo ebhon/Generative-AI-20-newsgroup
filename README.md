@@ -1,5 +1,3 @@
-# Newsgroup-generator
-
 # Text Generation and Analysis with GPT-2
 
 ## Overview
